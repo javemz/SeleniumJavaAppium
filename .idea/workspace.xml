@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc89ea83-0819-40bd-b86e-5f1068188f3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SamplesJavaAndroid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SamplesJavaAppium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplesJavaAppium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SamplesJavaAppium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AutomationFramework/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POM/CalculatorHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/FirsTestCase.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test/FirsTestCase.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test/FirsTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
@@ -29,22 +33,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/POM/CalculatorHome.java">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AutomationFramework/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AutomationFramework/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -69,6 +79,8 @@
         <option value="$PROJECT_DIR$/src/AutomationFramework/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/POM/CalculatorHome.java" />
         <option value="$PROJECT_DIR$/src/Test/FirsTestCase.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -84,35 +96,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SamplesJavaAppium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamplesJavaAppium" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumJavaAppium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumJavaAppium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SamplesJavaAppium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamplesJavaAppium" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumJavaAppium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumJavaAppium" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SamplesJavaAppium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamplesJavaAppium" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumJavaAppium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575467776504" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575484065777" />
+    <property name="last_opened_file_path" value="D:/Drivers_PS/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,11 +140,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="FirsTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/USER/Documents/GitHub/SeleniumJavaAppium/testng.xml">
+    <configuration name="C:/Users/USER/Documents/GitHub/SeleniumJavaAppium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SamplesJavaAppium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test.FirsTestCase" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -171,8 +188,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirsTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SamplesJavaAppium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test.FirsTestCase" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/USER/Documents/GitHub/SeleniumJavaAppium/testng.xml" />
+      <item itemvalue="TestNG.FirsTestCase" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/USER/Documents/GitHub/SeleniumJavaAppium/testng.xml" />
         <item itemvalue="TestNG.FirsTestCase" />
       </list>
     </recent_temporary>
@@ -191,15 +223,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirsTestCase - 2019.12.04 at 10h 07m 27s.xml">
-      <configuration name="FirsTestCase" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirsTestCase - 2019.12.04 at 10h 11m 49s.xml">
-      <configuration name="FirsTestCase" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirsTestCase - 2019.12.04 at 10h 16m 00s.xml">
-      <configuration name="FirsTestCase" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="FirsTestCase - 2019.12.04 at 10h 17m 13s.xml">
       <configuration name="FirsTestCase" configurationId="TestNG" />
     </history-entry>
@@ -221,11 +244,21 @@
     <history-entry file="FirsTestCase - 2019.12.04 at 10h 34m 22s.xml">
       <configuration name="FirsTestCase" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="FirsTestCase - 2019.12.04 at 15h 00m 33s.xml">
+      <configuration name="FirsTestCase" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_USER_Documents_GitHub_SeleniumJavaAppium_testng_xml - 2019.12.04 at 15h 03m 27s.xml">
+      <configuration name="C:/Users/USER/Documents/GitHub/SeleniumJavaAppium/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_USER_Documents_GitHub_SeleniumJavaAppium_testng_xml - 2019.12.04 at 15h 07m 13s.xml">
+      <configuration name="C:/Users/USER/Documents/GitHub/SeleniumJavaAppium/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -234,7 +267,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,7 +275,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -312,7 +345,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backup.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test/FirsTestCase.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/FirsTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
@@ -322,20 +355,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/POM/CalculatorHome.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/POM/CalculatorHome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AutomationFramework/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/AutomationFramework/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -391,7 +435,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SamplesJavaAndroid</last-edited>
+          <last-edited>SamplesJavaAppium</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -403,6 +447,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: cglib:cglib:3.2.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
